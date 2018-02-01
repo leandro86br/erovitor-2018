@@ -1,0 +1,134 @@
+
+
+body { font-family: 'roboto', sans-serif; overflow-x: hidden !important }
+
+a { transition: all ease 0.2s; color: #666; text-decoration: none!important }
+a:hover { color: #18216E; }
+
+a[href^="tel:"], a[href^="mailto:"] { color: #333 }
+a[href^="tel:"]:hover, a[href^="mailto:"]:hover { color: #18216E }
+
+
+/* =BOOTSTRAP RESET
+ */
+
+ul { padding-left: 20px }
+
+.btn { border-radius: 3px; padding:15px 50px 16px 50px }
+.btn-sm, .btn-group-sm > .btn { padding: 9px 50px 10px 50px; font-size: 0.875rem; }
+
+.btn-secondary{background-color: #18216E; border-color: #18216E}
+.btn-secondary:hover{background-color: #121954; border-color: #121954}
+.btn-secondary:focus, .btn-secondary.focus {box-shadow: 0 0 0 0.2rem #0f1443}
+.btn-secondary.disabled, .btn-secondary:disabled {background-color: #18216E; border-color: #18216E}
+
+.btn-outline-dark{ border-color: #000 !important; color: #000}
+.btn-outline-dark:hover{background-color: #111; border-color: #111}
+.btn-outline-dark:focus, .btn-secondary.focus {box-shadow: 0 0 0 0.2rem #222}
+.btn-outline-dark.disabled, .btn-secondary:disabled {background-color: #333; border-color: #333}
+
+[class*="btn-outline"] { border:2px solid }
+
+.bg-secondary { background: #18216E!important}
+.text-secondary { color: #18216E!important}
+
+.card { margin-top: 0; margin-bottom: 20px; padding: 20px; border: none; box-shadow: 10px 10px 50px #ddd; }
+.card-img-top { width: 150px; margin: 0 auto }
+.card-text { font-size: 1em }
+
+nav { transition: all linear 0.2s }
+.navbar a { color: #fff!important }
+.navbar-nav { font-family: 'raleway', sans-serif; font-weight: 600}
+.nav-link:hover, .nav-link:active, .nav-link:focus { color: #999!important }
+
+button { cursor: pointer }
+
+
+
+/* =CLASSES
+ */
+
+.map { margin-top: 5px; border: 0; width: 100%; height: 414px; border-radius: 4px; box-shadow: 10px 10px 50px #ddd}
+
+.bg-white { background: #fff }
+.bg-black { background: #111 }
+
+.bg-paralaxe {background: #111 url(../img/bg/bg.jpg) top no-repeat; background-size: cover; background-attachment: fixed}
+.bg-overlay {background: rgba(0,0,0,0.5)}
+.bg-header { background: url(../img/bg/bg-header-lg.png) no-repeat bottom right; position: relative; bottom: -10px }
+.bg-contact { background: url(../img/bg/bg-contact.png) no-repeat bottom right; position: relative; bottom: -10px }
+
+@media (max-width:767px) {
+    
+    .bg-header{ background: url(../img/bg/bg-header.png) no-repeat bottom right; background-size: 120% }
+    .bg-contact { background-size: contain }
+}
+
+.line { height: 1px; width:70px; margin:10px auto 75px auto; background:#ccc }
+
+.padding-content { padding-top: 105px; padding-bottom: 105px }
+.padding-header { padding-top: 200px; padding-bottom: 200px }
+.padding-nav { padding-top: 30px; padding-bottom: 30px; }
+
+@media (max-width: 767px) {
+    .padding-header { padding-top: 140px; padding-bottom: 140px }
+}
+
+@media (max-width: 575px) {
+    .padding-header { padding-top: 100px; padding-bottom: 140px }
+}
+
+.space { margin-top: 70px }
+
+.relative { position: relative }
+.absolute { position: absolute }
+
+.svg-top { top: -2px; left: 0; width: 100% }
+.svg-bottom { bottom: -7px; left: 0; width: 100% }
+
+.colors{list-style-type: none; padding-left: 0}
+.colors li{padding: 19px;display: inline-block; border-radius: 100px; border: 1px solid #fff}
+.colors li:nth-child(1){background-color: darkblue; border-color: darkblue}
+.colors li:nth-child(2){background-color: red; border-color: red }
+.colors li:nth-child(3){background-color: yellow; border-color: yellow }
+.colors li:nth-child(4){background-color: orange; border-color: orange}
+.colors li:nth-child(5){background-color: green; border-color: green}
+.colors li:nth-child(6){background-color: pink; border-color: pink}
+.colors li:nth-child(7){background-color: purple; border-color: purple}
+.colors li:nth-child(8){background-color: black; border-color: black}
+
+
+.more { position: absolute; background: rgba(0,0,0,0.3); padding: 25px 24px 25px 28px ; opacity: 0; transition: 0.2s linear; left: 50%; margin-left: -50px; color: #fff; border-radius: 200px }
+.card-hover:hover .more { opacity: 1 }
+
+
+
+/* =TYPOGRAPHY
+ */
+
+h1, h2, h3 { font-family: 'Raleway', sans-serif; color: #333}
+
+h1 { font-size: 2.9em; }
+h2 { font-size: 2.4em; }
+h3 { font-size: 1.7em; font-weight: 600}
+
+p{ margin-bottom:1.6em; font-size:1.3em; line-height: 1.6em; font-weight: 300; color: #333}
+
+@media (max-width: 575px){
+    
+    h1 { font-size: 2.4em }
+    h2 { font-size: 1.9em }
+    h3 { font-size: 1.4em }
+    
+    p { font-size: 1.2em }
+    
+}
+
+
+/* =FOOTER
+ */
+
+footer { padding:75px 0 }
+footer p{ font-size: 0.85em }
+footer a[href^="mailto:"] { color: #eee }
+footer a[href^="mailto:"]:hover { color: #aaa }
