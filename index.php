@@ -3,159 +3,168 @@
 
 <head>
 <meta charset="utf-8">
-<meta name="description" content="">
+<meta name="description" content="A Lacres Erovitor atua no segmento de lacres de seguran&ccedil;a, produtos personalizados com grava&ccedil;&atilde;o em hot-stamping ou &uacute;nica em alto-relevo">
+<meta name="keywords" content="lacres, lacres seguran&ccedil;a, lacres de seguranca, lacres polipropileno, lacres nylon, lacre escada, lacre corte facil, lacre espinha">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400|Raleway:300,600">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="css/custom.css">
 
-<link rel="icon" href="images/favicon.ico">
+<link rel="icon" href="img/favicon.png">
 
-<title>Lacres Erovitor</title>
+<title>Lacres de Seguran&ccedil;a | Lacres Erovitor</title>
+
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "Organization",
+"name":"Lacres Erovitor",
+"url":"http://lacreserovitor.com.br",
+"logo": "http://lacreserovitor.com.br/img/logos-hd/logo-black.png",
+"email":"contato@lacreserovitor.com.br",
+"telephone" : [ "(11) 2115-7055", "(11) 2211-9804" ],
+"address" : {
+    "@type": "PostalAddress",
+    "streetAddress": "Rua Antonio Gomes, 437 ",
+    "addressLocality": "S&atilde;o Paulo",
+    "addressRegion": "S&atilde;o Paulo",
+    "postalCode": "03274010"
+    }
+}
+</script>
 
 </head>
 
 <body id="home" class="animated fadeIn">
 
-  <!-- HEADER
-  ********************************************************** -->
+<!-- HEADER
+********************************************************** -->
 
-  <!-- NAV -->
-  <nav class="navbar sticky-top navbar-expand-md navbar-dark bg-black padding-nav">
-    <div class="container">
+<!-- NAV -->
+<nav class="navbar sticky-top navbar-expand-md navbar-dark bg-black padding-nav">
+<div class="container">
 
-      <a class="navbar-brand" href="#"><img src="img/logo-white.png" width="180" alt=""></a>
+  <a class="navbar-brand" href="#"><img src="img/logo-white.png" width="205" alt="Logo"></a>
 
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-      <!-- NAV LINKS -->
-      <div class="navbar-collapse collapse justify-content-end in">
-        <ul class="navbar-nav text-uppercase">
-          <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
-          <li class="nav-item"><a class="nav-link" href="#section-lacres">Lacres</a></li>
-          <li class="nav-item"><a class="nav-link" href="#section-quem-somos">quem somos</a></li>
-          <li class="nav-item"><a class="nav-link" href="#section-contato">Contato</a></li>
-        </ul>
-      </div><!-- NAVBAR COLLAPSE - NAV -->
-    </div><!-- CONTAINER -->
-  </nav><!-- NAVBAR  -->
+  <!-- NAV LINKS -->
+  <div class="navbar-collapse collapse justify-content-end in">
+    <ul class="navbar-nav text-uppercase">
+      <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
+      <li class="nav-item"><a class="nav-link" href="#section-lacres">Lacres</a></li>
+      <li class="nav-item"><a class="nav-link" href="#section-quem-somos">quem somos</a></li>
+      <li class="nav-item"><a class="nav-link" href="#section-contato">Contato</a></li>
+    </ul>
+  </div><!-- NAVBAR COLLAPSE - NAV -->
+</div><!-- CONTAINER -->
+</nav><!-- NAVBAR  -->
 
-<div class="bg-paralaxe">
+
+<div class="bg-wood">
 <div class="bg-overlay">
 <header>
 
-    <div class="container">
-     <div class="bg-header">
-      <div class="row">
-
-        <div class="col-md-6 padding-header animated bounceInLeft">
-          <h1 class="text-light">Lacres em Polipropileno e Nylon</h1>
+    <div class="container bg-banner">
+      <div class="row padding-header">
+        <div class="col-lg-6 text-lg-left text-center box">
+          <h1 class="text-light text-shadow">Lacres de Seguran&ccedil;a em Polipropileno e Nylon</h1>
           <br>
-          <a href="#section-lacres" id="saibaMais" class="btn btn-secondary btn-sm rounded-circle text-uppercase">Saiba Mais</a>
-
+          <a href="#section-lacres" class="btn btn-secondary btn-sm text-uppercase">Saiba Mais</a>
         </div><!-- COL -->
       </div><!-- ROW -->
-      </div><!-- bg-header -->
     </div><!-- CONTAINER -->
-
-  <svg viewBox="0 0 1280 140" preserveAspectRatio="none" class="relative svg-bottom" role="presentation" aria-hidden="true">
-    <polygon points="1280,140 0,140 0,70 623.715,70 656.285,0 1280,0" fill="#fff"></polygon>
-  </svg>
 
 </header>
 </div><!-- bg-overlay -->
-</div><!-- bg-paralaxe -->
+</div><!-- bg-wood -->
 
 
   <!-- LACRES
 *********************************************** -->
 
-<section id="section-lacres">
-  <div class="container">
-    <div class="padding-content">
+<section id="section-lacres" class="bg-mask">
+  <div class="container padding-content">
       <div class="row">
 
         <div class="col-md-12">
-          <h2 class="text-center">Lacres em Polipropileno</h2>
+          <h2 class="text-center">Lacres de Seguran&ccedil;a em Polipropileno</h2>
           <div class="line"></div>
         </div><!-- COL -->
       </div><!-- ROW -->
 
       <div class="row">
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#lacreEscada16">
             <div class="card relative">
-              <i class="fa fa-search-plus more fa-3x" aria-hidden="true"></i>
-              <img class="card-img-top" src="img/lacres/escada-16.jpg" alt="">
+              <i class="material-icons more icon-lg">zoom_in</i>
+              <img itemprop="image" class="card-img-top" src="img/lacres/escada-16.jpg" alt="">
               <div class="card-body">
-                <h5 class="card-title text-center">Lacre Escada  <br> 16cm </h5>
-                <!-- <a href="#" class="btn btn-light btn-block" data-toggle="modal" data-target="#lacreEscada16">+ Detalhes</a> -->
+                <h5 itemprop="name" class="card-title text-center">Lacre Escada <br> 16cm</h5>
               </div><!-- card body -->
             </div><!-- card -->
           </a>
         </div><!-- col -->
 
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#lacreEscada23">
             <div class="card relative">
-              <i class="fa fa-search-plus more fa-3x" aria-hidden="true"></i>
-              <img class="card-img-top" src="img/lacres/escada-23.jpg" alt="">
+              <i class="material-icons more icon-lg">zoom_in</i>
+              <img itemprop="image" class="card-img-top" src="img/lacres/escada-23.jpg" alt="">
               <div class="card-body">
-                <h5 class="card-title text-center">Lacre Escada <br>23cm</h5>
-                <!-- <a href="#" class="btn btn-light btn-block" data-toggle="modal" data-target="#lacreEscada23">+ Detalhes</a> -->
+                <h5 itemprop="name" class="card-title text-center">Lacre Escada <br>23cm </h5>
               </div><!-- card body -->
             </div><!-- card -->
           </a>
         </div><!-- col -->
 
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#lacreCorteFacil16">
             <div class="card relative">
-              <i class="fa fa-search-plus more fa-3x" aria-hidden="true"></i>
-              <img class="card-img-top" src="img/lacres/corte-facil-16.jpg" alt="">
+              <i class="material-icons more icon-lg">zoom_in</i>
+              <img itemprop="image" class="card-img-top" src="img/lacres/corte-facil-16.jpg" alt="">
               <div class="card-body">
-                <h5 class="card-title text-center">Lacre Escada Corte F&aacute;cil <br>16cm</h5>
-                <!--<a href="#" class="btn btn-light btn-block" data-toggle="modal" data-target="#lacreCorteFacil16">+ Detalhes</a>-->
+                <h5 itemprop="name" class="card-title text-center">Lacre Corte F&aacute;cil <br>16cm </h5>
               </div><!-- card body -->
             </div><!-- card -->
           </a>
         </div><!-- col -->
 
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#lacreCorteFacil23">
-            <div class="card relative"> <i class="fa fa-search-plus more fa-3x" aria-hidden="true"></i>
-              <img class="card-img-top" src="img/lacres/corte-facil-23.jpg" alt="">
+            <div class="card relative">
+              <i class="material-icons more icon-lg">zoom_in</i>
+              <img itemprop="image" class="card-img-top" src="img/lacres/corte-facil-23.jpg" alt="">
               <div class="card-body">
-                <h5 class="card-title text-center">Lacre Escada Corte F&aacute;cil <br>23cm</h5>
-                <!-- <a href="#" class="btn btn-light btn-block" data-toggle="modal" data-target="#lacreCorteFacil23">+ Detalhes</a> -->
+                <h5 itemprop="name" class="card-title text-center">Lacre Corte F&aacute;cil <br>23cm </h5>
               </div><!-- card body -->
             </div><!-- card -->
           </a>
         </div><!-- col -->
 
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#lacreEspinha16">
-            <div class="card relative"> <i class="fa fa-search-plus more fa-3x" aria-hidden="true"></i>
-              <img class="card-img-top" src="img/lacres/espinha-16.jpg" alt="">
+            <div class="card relative">
+              <i class="material-icons more icon-lg">zoom_in</i>
+              <img itemprop="image" class="card-img-top" src="img/lacres/espinha-16.jpg" alt="">
               <div class="card-body">
-                <h5 class="card-title text-center">Lacre Espinha <br>16cm</h5>
-                <!-- <a href="#" class="btn btn-light btn-block" data-toggle="modal" data-target="#exampleModal">+ Detalhes</a> -->
+                <h5 itemprop="name" class="card-title text-center">Lacre Espinha <br>16cm </h5>
               </div><!-- card body -->
             </div><!-- card -->
           </a>
         </div><!-- col -->
 
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#lacreEspinha23">
-            <div class="card relative"> <i class="fa fa-search-plus more fa-3x" aria-hidden="true"></i>
-              <img class="card-img-top" src="img/lacres/espinha-23.jpg" alt="">
+            <div class="card relative">
+              <i class="material-icons more icon-lg">zoom_in</i>
+              <img itemprop="image" class="card-img-top" src="img/lacres/espinha-23.jpg" alt="">
               <div class="card-body">
-                <h5 class="card-title text-center">Lacre Espinha <br>23cm</h5>
-                <!-- <a href="#" class="btn btn-light btn-block" data-toggle="modal" data-target="#exampleModal">+ Detalhes</a> -->
+                <h5 itemprop="name" class="card-title text-center">Lacre Espinha <br>23cm </h5>
               </div><!-- card body -->
             </div><!-- card -->
           </a>
@@ -166,130 +175,115 @@
 
       <div class="row">
         <div class="col-md-12">
-          <h2 class="text-center">Lacres em Nylon</h2>
+          <h2 class="text-center">Lacres de Seguran&ccedil;a em Nylon</h2>
           <div class="line"></div>
         </div><!-- COL -->
       </div><!-- ROW -->
 
       <div class="row justify-content-center">
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#nylon16">
-            <div class="card relative"> <i class="fa fa-search-plus more fa-3x" aria-hidden="true"></i>
-              <img class="card-img-top" src="img/lacres/nylon-16.jpg" alt="">
+            <div class="card relative">
+              <i class="material-icons more icon-lg">zoom_in</i>
+              <img itemprop="image" class="card-img-top" src="img/lacres/nylon-16.jpg" alt="">
               <div class="card-body">
-                <h5 class="card-title text-center">Lacre Escada <br> 16cm</h5>
-                <!-- <a href="#" class="btn btn-light btn-block" data-toggle="modal" data-target="#exampleModal">+ Detalhes</a> -->
+                <h5 itemprop="name" class="card-title text-center">Lacre Escada <br> 16cm </h5>
               </div><!-- card body -->
             </div><!-- card -->
           </a>
         </div><!-- col -->
 
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
             <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#nylon23">
-              <div class="card relative"> <i class="fa fa-search-plus more fa-3x" aria-hidden="true"></i>
-              <img class="card-img-top" src="img/lacres/nylon-23.jpg" alt="">
+              <div class="card relative">
+              <i class="material-icons more icon-lg">zoom_in</i>
+              <img itemprop="image" class="card-img-top" src="img/lacres/nylon-23.jpg" alt="">
               <div class="card-body">
-                <h5 class="card-title text-center">Lacre Escada <br> 23cm</h5>
-                <!-- <a href="#" class="btn btn-light btn-block" data-toggle="modal" data-target="#exampleModal">+ Detalhes</a> -->
+                <h5 itemprop="name" class="card-title text-center">Lacre Escada <br> 23cm </h5>
               </div><!-- card body -->
             </div><!-- card -->
           </a>
         </div><!-- col -->
 
       </div><!-- row -->
-    </div><!-- padding content -->
   </div><!-- CONTAINER -->
 </section>
+
 
 <!-- SOBRE
 **************************************************************** -->
 
-<section class="bg-light" id="section-quem-somos">
-  <svg viewBox="0 0 1280 140" preserveAspectRatio="none" class="relative svg-top" role="presentation" aria-hidden="true">
-    <polygon points="0,0 1280,0 1280,70 656.285,70 623.715,140 0,140" fill="#fff"></polygon>
-  </svg>
+<section id="section-quem-somos" class="bg-black">
 
-  <div class="container">
-    <div class="padding-content">
+<svg viewBox="0 0 1280 140" preserveAspectRatio="none" class="svg-top bg-mask" role="presentation" aria-hidden="true">
+    <polygon points="1280,140 0,140 0,70 623.715,70 656.285,0 1280,0"></polygon>
+</svg>
 
-      <div class="row">
-        <div class="col-lg-12">
-          <h2 class="text-center">Quem Somos?</h2>
-          <div class="line"></div>
+<div class="container padding-content">
+    <div class="row justify-content-center">
+
+        <div class="col-lg-6">
+            <h2 class="text-center text-light">Lacres Erovitor</h2>
+            <div class="line"></div>
+            <p class="text-light">
+            A Lacres Erovitor &eacute; uma empresa que atua no segmento de lacres
+            de seguran&ccedil;a com comprometimento e responsabilidade.
+            </p>
+
+            <p class="text-light">
+            Temos um atendimento exclusivo, com entrega &aacute;gil e produtos
+            personalizados, com grava&ccedil;&atilde;o em hot-stamping ou
+            grava&ccedil;&atilde;o &uacute;nica em alto-relevo.
+            </p>
         </div><!-- COL -->
-      </div><!-- ROW -->
 
-      <div class="row justify-content-center">
-        <div class="col-md-6">
-          <br>
-          <p>
-          A Lacres Erovitor &eacute; uma empresa que atua no segmento de lacres de seguran&ccedil;a com comprometimento e responsabilidade.
-          </p>
-          <p>
-          Temos um atendimento exclusivo, com entrega &aacute;gil e produtos personalizados, com grava&ccedil;&atilde;o em hot-stamping ou grava&ccedil;&atilde;o &uacute;nica em alto-relevo.
-          </p>
-        </div><!-- COL -->
-      </div><!-- ROW -->
-
-    </div><!-- padding content -->
-  </div><!-- CONTAINER -->
+    </div><!-- ROW -->
+</div><!-- CONTAINER -->
 </section>
 
 
 <!-- CONTATO
 ************************************************************************* -->
 
-<section id="section-contato">
+<section class="relative">
 
-  <svg viewBox="0 0 1280 140" preserveAspectRatio="none" class="relative svg-top" role="presentation" aria-hidden="true">
-    <polygon points="0,0 1280,0 1280,70 656.285,70 623.715,140 0,140" fill="#F8F9FA"></polygon>
-  </svg>
+<svg viewBox="0 0 1280 140" preserveAspectRatio="none" class="relative svg-top" role="presentation" aria-hidden="true">
+    <polygon points="0,0 1280,0 1280,70 656.285,70 623.715,140 0,140"></polygon>
+</svg>
+  
+<div class="container padding-content" id="section-contato">
+    <div class="row justify-content-end">
 
-  <div class="container">
-    <div class="padding-content">
-
-      <div class="row">
-        <div class="col-lg-12">
-          <h2 class=" text-center">Entre em Contato</h2>
-          <div class="line"></div>
+        <div class="col-lg-6">
+            <div class="card bg-overlay card-contact">
+                <div class="card-body bg-overlay text-center">
+                    <h3 class="text-light"><i class="material-icons">location_on</i> <br> Endere&ccedil;o <br> (Sede Pr&oacute;pria)</h3>
+                    <p class="text-light">
+                    Rua Antonio Gomes, 437 <br>
+                    Santa Clara - S&atilde;o Paulo - SP <br>
+                    CEP 03274-010 <br>
+                    <a class="link-light" href="https://goo.gl/maps/3dBiVjyxcU32" target="_blank"> <i class="material-icons">directions</i> <br> como chegar</a>
+                    </p>
+                    <h3 class="text-light"><i class="material-icons">phone</i> <br> Fones</h3>
+                    <p>
+                    <a href="tel:11-2115-7055">(11) 2115-7055</a> <br>
+                    <a href="tel:11-2211-9804">(11) 2211-9804</a>
+                    </p>
+                    <h3 class="text-light"><i class="material-icons">email</i> <br> Email</h3>
+                    <p><a href="mailto:contato@lacreserovitor.com.br">contato@lacreserovitor.com.br</a></p>
+                </div><!-- card-body -->
+            </div><!-- card -->
         </div><!-- COL -->
-      </div><!-- ROW -->
+    
+    </div><!-- row -->
+</div><!-- CONTAINER -->
 
-      <div class="row">
-        <div class="col-lg-4">
-          <h3 class="text-">Endere&ccedil;o (Sede Pr&oacute;pria)</h3>
-          <p>
-          Rua Antonio Gomes, 437 <br>
-          Santa Clara - S&atilde;o Paulo - SP <br>
-          CEP 03274-010 <br>
-          </p>
+<div id="map"></div>
 
-          <br>
 
-          <h3><span class="fa fa-phone-square"></span> Fones</h3>
-          <p>
-          <a href="tel:11-2115-7055">(11) 2115-7055</a> <br>
-          <a href="tel:11-2211-9804">(11) 2211-9804</a>
-          </p>
-
-          <br>
-
-          <h3><span class="fa fa-envelope"></span> Email</h3>
-          <p>
-          <a href="mailto:contato@lacreserovitor.com.br">contato@lacreserovitor.com.br</a> <br>
-          </p>
-        </div><!-- COL -->
-
-        <div class="col-lg-8">
-          <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d914.18158257965!2d-46.557635828475114!3d-23.57827046062241!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5c35833f44b5%3A0xe553e5c782f3165b!2sR.+Ant%C3%B4nio+Gomes%2C+437+-+Vila+Santa+Clara%2C+S%C3%A3o+Paulo+-+SP%2C+03274-010!5e0!3m2!1spt-BR!2sbr!4v1516621809753" allowfullscreen></iframe>
-        </div><!-- COL -->
-      </div><!-- ROW -->
-    </div><!-- PADDING CONTENT -->
-  </div><!-- CONTAINER -->
-
-  <svg viewBox="0 0 1280 140" preserveAspectRatio="none" class="relative svg-bottom" role="presentation" aria-hidden="true">
-    <polygon points="1280,140 0,140 0,70 623.715,70 656.285,0 1280,0" fill="#111"></polygon>
-  </svg>
+<svg viewBox="0 0 1280 140" preserveAspectRatio="none" class="relative svg-bottom" role="presentation" aria-hidden="true">
+    <polygon points="1280,140 0,140 0,70 623.715,70 656.285,0 1280,0"></polygon>
+</svg> 
 
 </section>
 
@@ -299,17 +293,15 @@
 
 <footer class="bg-black">
   <div class="container">
-    <div class="row">
+    <div class="row align-items-center">
 
-    <div class="col-lg-12 text-center">
-        <img src="img/logo-white.png" width="150" alt="">
-
+    <div class="col-md-12 text-center">
+        <img src="img/logo-white.png" width="190" alt="">
         <br><br>
-
-      <p class="text-light">Lacres Erovitor 2018 - Todos os direitos reservados. <br>
-      Desenvolvido por <a href="mailto:leandro.zambelli@yahoo">leandro.zambelli@yahoo.com</a></p>
+        <p class="text-light">Lacres Erovitor 2018 - Todos os Direitos Reservados <br>
+        Desenvolvido por <a href="mailto:leandro.zambelli@yahoo">leandro.zambelli@yahoo.com</a></p>
     </div><!-- COL -->
-
+    
     </div><!-- ROW -->
   </div><!-- CONTAINER -->
 </footer>
@@ -317,19 +309,31 @@
 <script
   src="https://code.jquery.com/jquery-3.2.1.min.js"
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-  crossorigin="anonymous"></script>
+  crossorigin="anonymous" defer></script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
-  integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
-  crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" defer></script>
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
-  integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
-  crossorigin="anonymous"></script>
+<script src="js/functions.js" defer></script>
 
-<script src="https://use.fontawesome.com/32957a0819.js"></script>
+<script>
+function initMap() {
 
-<script src="js/functions.js"></script>
+    var erovitor = {lat: -23.577871, lng: -46.557350};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      center: erovitor,
+      zoom: 16,
+      styles: [{"stylers":[{"hue":"#ff1a00"},{"invert_lightness":true},{"saturation":-100},{"lightness":33},{"gamma":0.5}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#2D333C"}]}]
+    });
+
+    var marker = new google.maps.Marker({
+        position: erovitor,
+        map: map
+    });
+
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyArnM9ay1RZRoNhQsy_mtQQJgzZ9T1eByg&callback=initMap" async defer></script>
 
 
 
@@ -338,9 +342,10 @@
 
 <div class="modal fade" id="lacreEscada16" tabindex="-1" role="dialog" aria-labelledby="lacreEscada16" aria-hidden="true">
 <div class="modal-dialog modal-lg" role="document">
-<div class="modal-content">
+<div class="modal-content" itemscope itemtype="http://schema.org/Product">
 <div class="modal-header">
-<h3 class="modal-title">Lacre Escada  16cm</h3>
+<h3 itemprop="name" class="modal-title">Lacre Escada 16cm</h3>
+
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">&times;</span>
 </button>
@@ -356,43 +361,44 @@
 <div class="col-lg-6">
 <h5>Or&ccedil;amento</h5>
 <hr>
-<p class="statusMsg"></p>
-<form role="form">
-<div class="form-group">
-<label>Empresa <b class="text-danger">*</b></label>
-<input type="text" name="empresa" class="form-control" id="inputEmpresa" placeholder="Nome da sua empresa">
-</div>
-<div class="form-group">
-<label>Email <b class="text-danger">*</b></label>
-<input type="email" name="email" class="form-control" id="inputEmail" placeholder="Email de sua empresa">
-</div>
-<div class="form-group">
-<label>Telefone com DDD <b class="text-danger">*</b></label>
-<input type="text" name="fone" class="form-control" id="inputFone" placeholder="11988887777">
-</div>
-<div class="form-row">
-<div class="form-group col-lg-8">
-<label>Lacre</label>
-<select class="form-control" name="lacre" id="inputLacre">
-<option selected>Lacre Escada 16cm</option>
-</select>
-</div>
-<div class="form-group col-lg-4">
-<label>Quantidade</label>
-<input type="number" name="quantidade" class="form-control" id="inputQuantidade" value="2000">
-</div>
-</div>
+       
+        <form action="sendmail.php" method="post">
+        <div class="form-group">
+        <label>Empresa <b class="text-danger">*</b></label>
+        <input type="text" name="empresa" class="form-control" placeholder="Nome da sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Email <b class="text-danger">*</b></label>
+        <input type="email" name="email" class="form-control" placeholder="Email de sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Telefone com DDD <b class="text-danger">*</b></label>
+        <input type="text" name="fone" class="form-control" placeholder="11988887777" required>
+        </div>
+        <div class="form-row">
+        <div class="form-group col-lg-8">
+        <label>Lacre</label>
+        <select class="form-control" name="lacre">
+        <option selected>Lacre Escada 16cm</option>
+        </select>
+        </div>
+        <div class="form-group col-lg-4">
+        <label>Quantidade</label>
+        <input type="number" name="quantidade" class="form-control" value="2000">
+        </div>
+        </div>
 
-<button type="submit" class="btn btn-primary btn-sm submitBtn rounded" onclick="submitContactForm()">Enviar</button>
-<br><br>
-</form>
-</div>
+        <button type="submit" name="submit" class="btn btn-secondary btn-sm rounded">Enviar</button>
+        <br><br>
+        </form>
+        </div><!--col-->
 
 <div class="col-lg-6">
 <h5>Especifica&ccedil;&otilde;es T&eacute;cnicas</h5>
 <hr>
 <ul>
-<li><strong>Material:</strong> Polipropileno (PP)</li>
+<li><span itemprop="description">Lacre de Seguran&ccedil;a</span></li>
+<li><strong>Material:</strong> <span itemprop="material">Polipropileno (PP)</span></li>
 <li><strong>Comprimento:</strong> 16cm</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Livre:</strong> 10,8 kgf</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Travada:</strong> 20,0 kgf</li>
@@ -402,14 +408,14 @@
 <h5>Cores Dispon&iacute;veis</h5>
 <hr>
 <ul class="colors">
-<li data-toggle="tooltip" data-placement="top" title="Azul"></li>
-<li data-toggle="tooltip" data-placement="top" title="Vermelho"></li>
-<li data-toggle="tooltip" data-placement="top" title="Amarelo"></li>
-<li data-toggle="tooltip" data-placement="top" title="Laranja"></li>
-<li data-toggle="tooltip" data-placement="top" title="Verde"></li>
-<li data-toggle="tooltip" data-placement="top" title="Rosa"></li>
-<li data-toggle="tooltip" data-placement="top" title="Purpura"></li>
-<li data-toggle="tooltip" data-placement="top" title="Preto"></li>
+<li><span>Azul</span></li>
+<li><span>Vermelho</span></li>
+<li><span>Amarelo</span></li>
+<li><span>Laranja</span></li>
+<li><span>Verde</span></li>
+<li><span>Rosa</span></li>
+<li><span>Purpura</span></li>
+<li><span>Preto</span></li>
 </ul>
 
 <span><small>* Outras cores sob consulta</small></span>
@@ -429,9 +435,9 @@
 
 <div class="modal fade" id="lacreEscada23" tabindex="-1" role="dialog" aria-labelledby="lacreEscada23" aria-hidden="true">
 <div class="modal-dialog modal-lg" role="document">
-<div class="modal-content">
+<div class="modal-content" itemscope itemtype="http://schema.org/Product">
 <div class="modal-header">
-<h3 class="modal-title">Lacre Escada 23cm</h3>
+<h3 itemprop="name" class="modal-title">Lacre Escada 23cm </h3>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">&times;</span>
 </button>
@@ -447,41 +453,43 @@
 <div class="col-lg-6">
 <h5>Or&ccedil;amento</h5>
 <hr>
-<form>
-<div class="form-group">
-<label for="inputEmail4">Empresa <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="Nome da sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Email <b class="text-danger">*</b></label>
-<input type="email" class="form-control" id="inputEmail4" placeholder="Email de sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Telefone com DDD <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="11988887777">
-</div>
-<div class="form-row">
-<div class="form-group col-lg-8">
-<label for="exampleFormControlSelect1">Lacre</label>
-<select class="form-control" id="exampleFormControlSelect1">
-<option selected>Lacre Escada 23cm</option>
-</select>
-</div>
-<div class="form-group col-lg-4">
-<label for="exampleFormControlSelect1">Quantidade</label>
-<input type="number" class="form-control" id="inputEmail4" value="2000">
-</div>
-</div>
+        <form action="sendmail.php" method="post">
+        <div class="form-group">
+        <label>Empresa <b class="text-danger">*</b></label>
+        <input type="text" name="empresa" class="form-control" placeholder="Nome da sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Email <b class="text-danger">*</b></label>
+        <input type="email" name="email" class="form-control" placeholder="Email de sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Telefone com DDD <b class="text-danger">*</b></label>
+        <input type="text" name="fone" class="form-control" placeholder="11988887777" required>
+        </div>
+        <div class="form-row">
+        <div class="form-group col-lg-8">
+        <label>Lacre</label>
+        <select class="form-control" name="lacre">
+        <option selected>Lacre Escada 23cm</option>
+        </select>
+        </div>
+        <div class="form-group col-lg-4">
+        <label>Quantidade</label>
+        <input type="number" name="quantidade" class="form-control" value="2000">
+        </div>
+        </div>
 
-<button type="submit" class="btn btn-primary">Enviar</button>
-</form>
-</div>
+        <button type="submit" name="submit" class="btn btn-secondary btn-sm rounded">Enviar</button>
+        <br><br>
+        </form>
+        </div><!--col-->
 
 <div class="col-lg-6">
 <h5>Especifica&ccedil;&otilde;es T&eacute;cnicas</h5>
 <hr>
 <ul>
-<li><strong>Material:</strong> Polipropileno (PP)</li>
+<li><span itemprop="description">Lacre de Seguran&ccedil;a</span></li>
+<li><strong>Material:</strong> <span itemprop="material">Polipropileno (PP)</span></li>
 <li><strong>Comprimento:</strong> 23cm</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Livre:</strong> 10,8 kgf</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Travada:</strong> 20,0 kgf</li>
@@ -491,14 +499,14 @@
 <h5>Cores Dispon&iacute;veis</h5>
 <hr>
 <ul class="colors">
-<li data-toggle="tooltip" data-placement="top" title="Azul"></li>
-<li data-toggle="tooltip" data-placement="top" title="Vermelho"></li>
-<li data-toggle="tooltip" data-placement="top" title="Amarelo"></li>
-<li data-toggle="tooltip" data-placement="top" title="Laranja"></li>
-<li data-toggle="tooltip" data-placement="top" title="Verde"></li>
-<li data-toggle="tooltip" data-placement="top" title="Rosa"></li>
-<li data-toggle="tooltip" data-placement="top" title="Purpura"></li>
-<li data-toggle="tooltip" data-placement="top" title="Preto"></li>
+<li><span>Azul</span></li>
+<li><span>Vermelho</span></li>
+<li><span>Amarelo</span></li>
+<li><span>Laranja</span></li>
+<li><span>Verde</span></li>
+<li><span>Rosa</span></li>
+<li><span>Purpura</span></li>
+<li><span>Preto</span></li>
 </ul>
 
 <span><small>* Outras cores sob consulta</small></span>
@@ -518,9 +526,9 @@
 
 <div class="modal fade" id="lacreCorteFacil16" tabindex="-1" role="dialog" aria-labelledby="lacreCorteFacil16" aria-hidden="true">
 <div class="modal-dialog modal-lg" role="document">
-<div class="modal-content">
+<div class="modal-content" itemscope itemtype="http://schema.org/Product">
 <div class="modal-header">
-<h3 class="modal-title">Lacre Escada Corte F&aacute;cil 16cm</h3>
+<h3 itemprop="name" class="modal-title">Lacre Escada Corte F&aacute;cil 16cm </h3>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">&times;</span>
 </button>
@@ -536,41 +544,43 @@
 <div class="col-lg-6">
 <h5>Or&ccedil;amento</h5>
 <hr>
-<form>
-<div class="form-group">
-<label for="inputEmail4">Empresa <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="Nome da sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Email <b class="text-danger">*</b></label>
-<input type="email" class="form-control" id="inputEmail4" placeholder="Email de sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Telefone com DDD <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="11988887777">
-</div>
-<div class="form-row">
-<div class="form-group col-lg-8">
-<label for="exampleFormControlSelect1">Lacre</label>
-<select class="form-control" id="exampleFormControlSelect1">
-<option selected>Lacre Escada Corte F&aacute;cil 16cm</option>
-</select>
-</div>
-<div class="form-group col-lg-4">
-<label for="exampleFormControlSelect1">Quantidade</label>
-<input type="number" class="form-control" id="inputEmail4" value="2000">
-</div>
-</div>
+        <form action="sendmail.php" method="post">
+        <div class="form-group">
+        <label>Empresa <b class="text-danger">*</b></label>
+        <input type="text" name="empresa" class="form-control" placeholder="Nome da sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Email <b class="text-danger">*</b></label>
+        <input type="email" name="email" class="form-control" placeholder="Email de sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Telefone com DDD <b class="text-danger">*</b></label>
+        <input type="text" name="fone" class="form-control" placeholder="11988887777" required>
+        </div>
+        <div class="form-row">
+        <div class="form-group col-lg-8">
+        <label>Lacre</label>
+        <select class="form-control" name="lacre">
+        <option selected>Lacre Corte Facil 16cm</option>
+        </select>
+        </div>
+        <div class="form-group col-lg-4">
+        <label>Quantidade</label>
+        <input type="number" name="quantidade" class="form-control" value="2000">
+        </div>
+        </div>
 
-<button type="submit" class="btn btn-primary">Enviar</button>
-</form>
-</div>
+        <button type="submit" name="submit" class="btn btn-secondary btn-sm rounded">Enviar</button>
+        <br><br>
+        </form>
+        </div><!--col-->
 
 <div class="col-lg-6">
 <h5>Especifica&ccedil;&otilde;es T&eacute;cnicas</h5>
 <hr>
 <ul>
-<li><strong>Material:</strong> Polipropileno (PP)</li>
+<li><span itemprop="description">Lacre de Seguran&ccedil;a</span></li>
+<li><strong>Material:</strong> <span itemprop="material">Polipropileno (PP)</span></li>
 <li><strong>Comprimento:</strong> 16cm</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Livre:</strong> 10,8 kgf</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Travada:</strong> 20,0 kgf</li>
@@ -580,14 +590,14 @@
 <h5>Cores Dispon&iacute;veis</h5>
 <hr>
 <ul class="colors">
-<li data-toggle="tooltip" data-placement="top" title="Azul"></li>
-<li data-toggle="tooltip" data-placement="top" title="Vermelho"></li>
-<li data-toggle="tooltip" data-placement="top" title="Amarelo"></li>
-<li data-toggle="tooltip" data-placement="top" title="Laranja"></li>
-<li data-toggle="tooltip" data-placement="top" title="Verde"></li>
-<li data-toggle="tooltip" data-placement="top" title="Rosa"></li>
-<li data-toggle="tooltip" data-placement="top" title="Purpura"></li>
-<li data-toggle="tooltip" data-placement="top" title="Preto"></li>
+<li><span>Azul</span></li>
+<li><span>Vermelho</span></li>
+<li><span>Amarelo</span></li>
+<li><span>Laranja</span></li>
+<li><span>Verde</span></li>
+<li><span>Rosa</span></li>
+<li><span>Purpura</span></li>
+<li><span>Preto</span></li>
 </ul>
 
 <span><small>* Outras cores sob consulta</small></span>
@@ -607,9 +617,9 @@
 
 <div class="modal fade" id="lacreCorteFacil23" tabindex="-1" role="dialog" aria-labelledby="lacreCorteFacil23" aria-hidden="true">
 <div class="modal-dialog modal-lg" role="document">
-<div class="modal-content">
+<div class="modal-content" itemscope itemtype="http://schema.org/Product">
 <div class="modal-header">
-<h3 class="modal-title">Lacre Escada Corte F&aacute;cil  23cm</h3>
+<h3 itemprop="name" class="modal-title">Lacre Escada Corte F&aacute;cil 23cm</h3>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">&times;</span>
 </button>
@@ -625,41 +635,43 @@
 <div class="col-lg-6">
 <h5>Or&ccedil;amento</h5>
 <hr>
-<form>
-<div class="form-group">
-<label for="inputEmail4">Empresa <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="Nome da sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Email <b class="text-danger">*</b></label>
-<input type="email" class="form-control" id="inputEmail4" placeholder="Email de sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Telefone com DDD <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="11988887777">
-</div>
-<div class="form-row">
-<div class="form-group col-lg-8">
-<label for="exampleFormControlSelect1">Lacre</label>
-<select class="form-control" id="exampleFormControlSelect1">
-<option selected>Lacre Escada Corte F&aacute;cil 23cm</option>
-</select>
-</div>
-<div class="form-group col-lg-4">
-<label for="exampleFormControlSelect1">Quantidade</label>
-<input type="number" class="form-control" id="inputEmail4" value="2000">
-</div>
-</div>
+        <form action="sendmail.php" method="post">
+        <div class="form-group">
+        <label>Empresa <b class="text-danger">*</b></label>
+        <input type="text" name="empresa" class="form-control" placeholder="Nome da sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Email <b class="text-danger">*</b></label>
+        <input type="email" name="email" class="form-control" placeholder="Email de sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Telefone com DDD <b class="text-danger">*</b></label>
+        <input type="text" name="fone" class="form-control" placeholder="11988887777" required>
+        </div>
+        <div class="form-row">
+        <div class="form-group col-lg-8">
+        <label>Lacre</label>
+        <select class="form-control" name="lacre">
+        <option selected>Lacre Corte Facil 23cm</option>
+        </select>
+        </div>
+        <div class="form-group col-lg-4">
+        <label>Quantidade</label>
+        <input type="number" name="quantidade" class="form-control" value="2000">
+        </div>
+        </div>
 
-<button type="submit" class="btn btn-primary">Enviar</button>
-</form>
-</div>
+        <button type="submit" name="submit" class="btn btn-secondary btn-sm rounded">Enviar</button>
+        <br><br>
+        </form>
+        </div><!--col-->
 
 <div class="col-lg-6">
 <h5>Especifica&ccedil;&otilde;es T&eacute;cnicas</h5>
 <hr>
 <ul>
-<li><strong>Material:</strong> Polipropileno (PP)</li>
+<li><span itemprop="description">Lacre de Seguran&ccedil;a</span></li>
+<li><strong>Material:</strong> <span itemprop="material">Polipropileno (PP)</span></li>
 <li><strong>Comprimento:</strong> 23cm</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Livre:</strong> 10,8 kgf</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Travada:</strong> 20,0 kgf</li>
@@ -669,14 +681,14 @@
 <h5>Cores Dispon&iacute;veis</h5>
 <hr>
 <ul class="colors">
-<li data-toggle="tooltip" data-placement="top" title="Azul"></li>
-<li data-toggle="tooltip" data-placement="top" title="Vermelho"></li>
-<li data-toggle="tooltip" data-placement="top" title="Amarelo"></li>
-<li data-toggle="tooltip" data-placement="top" title="Laranja"></li>
-<li data-toggle="tooltip" data-placement="top" title="Verde"></li>
-<li data-toggle="tooltip" data-placement="top" title="Rosa"></li>
-<li data-toggle="tooltip" data-placement="top" title="Purpura"></li>
-<li data-toggle="tooltip" data-placement="top" title="Preto"></li>
+<li><span>Azul</span></li>
+<li><span>Vermelho</span></li>
+<li><span>Amarelo</span></li>
+<li><span>Laranja</span></li>
+<li><span>Verde</span></li>
+<li><span>Rosa</span></li>
+<li><span>Purpura</span></li>
+<li><span>Preto</span></li>
 </ul>
 
 <span><small>* Outras cores sob consulta</small></span>
@@ -696,9 +708,9 @@
 
 <div class="modal fade" id="lacreEspinha16" tabindex="-1" role="dialog" aria-labelledby="lacreEspinha16" aria-hidden="true">
 <div class="modal-dialog modal-lg" role="document">
-<div class="modal-content">
+<div class="modal-content" itemscope itemtype="http://schema.org/Product">
 <div class="modal-header">
-<h3 class="modal-title">Lacre Espinha 16cm</h3>
+<h3 itemprop="name" class="modal-title">Lacre Espinha 16cm </h3>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">&times;</span>
 </button>
@@ -714,41 +726,44 @@
 <div class="col-lg-6">
 <h5>Or&ccedil;amento</h5>
 <hr>
-<form>
-<div class="form-group">
-<label for="inputEmail4">Empresa <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="Nome da sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Email <b class="text-danger">*</b></label>
-<input type="email" class="form-control" id="inputEmail4" placeholder="Email de sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Telefone com DDD <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="11988887777">
-</div>
-<div class="form-row">
-<div class="form-group col-lg-8">
-<label for="exampleFormControlSelect1">Lacre</label>
-<select class="form-control" id="exampleFormControlSelect1">
-<option selected>Lacre Espinha 16cm</option>
-</select>
-</div>
-<div class="form-group col-lg-4">
-<label for="exampleFormControlSelect1">Quantidade</label>
-<input type="number" class="form-control" id="inputEmail4" value="2000">
-</div>
-</div>
 
-<button type="submit" class="btn btn-primary">Enviar</button>
-</form>
-</div>
+        <form action="sendmail.php" method="post">
+        <div class="form-group">
+        <label>Empresa <b class="text-danger">*</b></label>
+        <input type="text" name="empresa" class="form-control" placeholder="Nome da sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Email <b class="text-danger">*</b></label>
+        <input type="email" name="email" class="form-control" placeholder="Email de sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Telefone com DDD <b class="text-danger">*</b></label>
+        <input type="text" name="fone" class="form-control" placeholder="11988887777" required>
+        </div>
+        <div class="form-row">
+        <div class="form-group col-lg-8">
+        <label>Lacre</label>
+        <select class="form-control" name="lacre">
+        <option selected>Lacre Espinha 16cm</option>
+        </select>
+        </div>
+        <div class="form-group col-lg-4">
+        <label>Quantidade</label>
+        <input type="number" name="quantidade" class="form-control" value="2000">
+        </div>
+        </div>
+
+        <button type="submit" name="submit" class="btn btn-secondary btn-sm rounded">Enviar</button>
+        <br><br>
+        </form>
+        </div><!--col-->
 
 <div class="col-lg-6">
 <h5>Especifica&ccedil;&otilde;es T&eacute;cnicas</h5>
 <hr>
 <ul>
-<li><strong>Material:</strong> Polipropileno (PP)</li>
+<li><span itemprop="description">Lacre de Seguran&ccedil;a</span></li>
+<li><strong>Material:</strong> <span itemprop="material">Polipropileno (PP)</span></li>
 <li><strong>Comprimento:</strong> 16cm</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Livre:</strong> 10,8 kgf</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Travada:</strong> 20,0 kgf</li>
@@ -758,14 +773,14 @@
 <h5>Cores Dispon&iacute;veis</h5>
 <hr>
 <ul class="colors">
-<li data-toggle="tooltip" data-placement="top" title="Azul"></li>
-<li data-toggle="tooltip" data-placement="top" title="Vermelho"></li>
-<li data-toggle="tooltip" data-placement="top" title="Amarelo"></li>
-<li data-toggle="tooltip" data-placement="top" title="Laranja"></li>
-<li data-toggle="tooltip" data-placement="top" title="Verde"></li>
-<li data-toggle="tooltip" data-placement="top" title="Rosa"></li>
-<li data-toggle="tooltip" data-placement="top" title="Purpura"></li>
-<li data-toggle="tooltip" data-placement="top" title="Preto"></li>
+<li><span>Azul</span></li>
+<li><span>Vermelho</span></li>
+<li><span>Amarelo</span></li>
+<li><span>Laranja</span></li>
+<li><span>Verde</span></li>
+<li><span>Rosa</span></li>
+<li><span>Purpura</span></li>
+<li><span>Preto</span></li>
 </ul>
 
 <span><small>* Outras cores sob consulta</small></span>
@@ -785,9 +800,9 @@
 
 <div class="modal fade" id="lacreEspinha23" tabindex="-1" role="dialog" aria-labelledby="lacreEspinha23" aria-hidden="true">
 <div class="modal-dialog modal-lg" role="document">
-<div class="modal-content">
+<div class="modal-content" itemscope itemtype="http://schema.org/Product">
 <div class="modal-header">
-<h3 class="modal-title">Lacre Espinha 23cm</h3>
+<h3 itemprop="name" class="modal-title">Lacre Espinha 23cm </h3>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">&times;</span>
 </button>
@@ -803,41 +818,44 @@
 <div class="col-lg-6">
 <h5>Or&ccedil;amento</h5>
 <hr>
-<form>
-<div class="form-group">
-<label for="inputEmail4">Empresa <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="Nome da sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Email <b class="text-danger">*</b></label>
-<input type="email" class="form-control" id="inputEmail4" placeholder="Email de sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Telefone com DDD <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="11988887777">
-</div>
-<div class="form-row">
-<div class="form-group col-lg-8">
-<label for="exampleFormControlSelect1">Lacre</label>
-<select class="form-control" id="exampleFormControlSelect1">
-<option selected>Lacre Espinha 23cm</option>
-</select>
-</div>
-<div class="form-group col-lg-4">
-<label for="exampleFormControlSelect1">Quantidade</label>
-<input type="number" class="form-control" id="inputEmail4" value="2000">
-</div>
-</div>
 
-<button type="submit" class="btn btn-primary">Enviar</button>
-</form>
-</div>
+        <form action="sendmail.php" method="post">
+        <div class="form-group">
+        <label>Empresa <b class="text-danger">*</b></label>
+        <input type="text" name="empresa" class="form-control" placeholder="Nome da sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Email <b class="text-danger">*</b></label>
+        <input type="email" name="email" class="form-control" placeholder="Email de sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Telefone com DDD <b class="text-danger">*</b></label>
+        <input type="text" name="fone" class="form-control" placeholder="11988887777" required>
+        </div>
+        <div class="form-row">
+        <div class="form-group col-lg-8">
+        <label>Lacre</label>
+        <select class="form-control" name="lacre">
+        <option selected>Lacre Espinha 23cm</option>
+        </select>
+        </div>
+        <div class="form-group col-lg-4">
+        <label>Quantidade</label>
+        <input type="number" name="quantidade" class="form-control" value="2000">
+        </div>
+        </div>
+
+        <button type="submit" name="submit" class="btn btn-secondary btn-sm rounded">Enviar</button>
+        <br><br>
+        </form>
+        </div><!--col-->
 
 <div class="col-lg-6">
 <h5>Especifica&ccedil;&otilde;es T&eacute;cnicas</h5>
 <hr>
 <ul>
-<li><strong>Material:</strong> Polipropileno (PP)</li>
+<li><span itemprop="description">Lacre de Seguran&ccedil;a</span></li>
+<li><strong>Material:</strong> <span itemprop="material">Polipropileno (PP)</span></li>
 <li><strong>Comprimento:</strong> 23cm</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Livre:</strong> 10,8 kgf</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Travada:</strong> 20,0 kgf</li>
@@ -847,14 +865,14 @@
 <h5>Cores Dispon&iacute;veis</h5>
 <hr>
 <ul class="colors">
-<li data-toggle="tooltip" data-placement="top" title="Azul"></li>
-<li data-toggle="tooltip" data-placement="top" title="Vermelho"></li>
-<li data-toggle="tooltip" data-placement="top" title="Amarelo"></li>
-<li data-toggle="tooltip" data-placement="top" title="Laranja"></li>
-<li data-toggle="tooltip" data-placement="top" title="Verde"></li>
-<li data-toggle="tooltip" data-placement="top" title="Rosa"></li>
-<li data-toggle="tooltip" data-placement="top" title="Purpura"></li>
-<li data-toggle="tooltip" data-placement="top" title="Preto"></li>
+<li><span>Azul</span></li>
+<li><span>Vermelho</span></li>
+<li><span>Amarelo</span></li>
+<li><span>Laranja</span></li>
+<li><span>Verde</span></li>
+<li><span>Rosa</span></li>
+<li><span>Purpura</span></li>
+<li><span>Preto</span></li>
 </ul>
 
 <span><small>* Outras cores sob consulta</small></span>
@@ -874,9 +892,9 @@
 
 <div class="modal fade" id="nylon16" tabindex="-1" role="dialog" aria-labelledby="nylon16" aria-hidden="true">
 <div class="modal-dialog modal-lg" role="document">
-<div class="modal-content">
+<div class="modal-content" itemscope itemtype="http://schema.org/Product">
 <div class="modal-header">
-<h3 class="modal-title">Lacre Escada 16cm</h3>
+<h3 itemprop="name" class="modal-title">Lacre Escada 16cm </h3>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">&times;</span>
 </button>
@@ -892,41 +910,44 @@
 <div class="col-lg-6">
 <h5>Or&ccedil;amento</h5>
 <hr>
-<form>
-<div class="form-group">
-<label for="inputEmail4">Empresa <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="Nome da sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Email <b class="text-danger">*</b></label>
-<input type="email" class="form-control" id="inputEmail4" placeholder="Email de sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Telefone com DDD <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="11988887777">
-</div>
-<div class="form-row">
-<div class="form-group col-lg-8">
-<label for="exampleFormControlSelect1">Lacre</label>
-<select class="form-control" id="exampleFormControlSelect1">
-<option selected>Lacre Escada 16cm (Nylon)</option>
-</select>
-</div>
-<div class="form-group col-lg-4">
-<label for="exampleFormControlSelect1">Quantidade</label>
-<input type="number" class="form-control" id="inputEmail4" value="2000">
-</div>
-</div>
 
-<button type="submit" class="btn btn-primary">Enviar</button>
-</form>
-</div>
+        <form action="sendmail.php" method="post">
+        <div class="form-group">
+        <label>Empresa <b class="text-danger">*</b></label>
+        <input type="text" name="empresa" class="form-control" placeholder="Nome da sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Email <b class="text-danger">*</b></label>
+        <input type="email" name="email" class="form-control" placeholder="Email de sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Telefone com DDD <b class="text-danger">*</b></label>
+        <input type="text" name="fone" class="form-control" placeholder="11988887777" required>
+        </div>
+        <div class="form-row">
+        <div class="form-group col-lg-8">
+        <label>Lacre</label>
+        <select class="form-control" name="lacre">
+        <option selected>Lacre Escada 16cm (Nylon)</option>
+        </select>
+        </div>
+        <div class="form-group col-lg-4">
+        <label>Quantidade</label>
+        <input type="number" name="quantidade" class="form-control" value="2000">
+        </div>
+        </div>
+
+        <button type="submit" name="submit" class="btn btn-secondary btn-sm rounded">Enviar</button>
+        <br><br>
+        </form>
+        </div><!--col-->
 
 <div class="col-lg-6">
 <h5>Especifica&ccedil;&otilde;es T&eacute;cnicas</h5>
 <hr>
 <ul>
-<li><strong>Material:</strong> Nylon</li>
+<li><span itemprop="description">Lacre de Seguran&ccedil;a</span></li>
+<li><strong>Material:</strong><span itemprop="material"> Nylon</span></li>
 <li><strong>Comprimento:</strong> 16cm</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Livre:</strong> 10,8 kgf</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Travada:</strong> 20,0 kgf</li>
@@ -936,14 +957,14 @@
 <h5>Cores Dispon&iacute;veis</h5>
 <hr>
 <ul class="colors">
-<li data-toggle="tooltip" data-placement="top" title="Azul"></li>
-<li data-toggle="tooltip" data-placement="top" title="Vermelho"></li>
-<li data-toggle="tooltip" data-placement="top" title="Amarelo"></li>
-<li data-toggle="tooltip" data-placement="top" title="Laranja"></li>
-<li data-toggle="tooltip" data-placement="top" title="Verde"></li>
-<li data-toggle="tooltip" data-placement="top" title="Rosa"></li>
-<li data-toggle="tooltip" data-placement="top" title="Purpura"></li>
-<li data-toggle="tooltip" data-placement="top" title="Preto"></li>
+<li><span>Azul</span></li>
+<li><span>Vermelho</span></li>
+<li><span>Amarelo</span></li>
+<li><span>Laranja</span></li>
+<li><span>Verde</span></li>
+<li><span>Rosa</span></li>
+<li><span>Purpura</span></li>
+<li><span>Preto</span></li>
 </ul>
 
 <span><small>* Outras cores sob consulta</small></span>
@@ -963,9 +984,9 @@
 
 <div class="modal fade" id="nylon23" tabindex="-1" role="dialog" aria-labelledby="nylon23" aria-hidden="true">
 <div class="modal-dialog modal-lg" role="document">
-<div class="modal-content">
+<div class="modal-content" itemscope itemtype="http://schema.org/Product">
 <div class="modal-header">
-<h3 class="modal-title">Lacre Escada  23cm</h3>
+<h3 itemprop="name" class="modal-title">Lacre Escada  23cm </h3>
 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 <span aria-hidden="true">&times;</span>
 </button>
@@ -981,41 +1002,44 @@
 <div class="col-lg-6">
 <h5>Or&ccedil;amento</h5>
 <hr>
-<form>
-<div class="form-group">
-<label for="inputEmail4">Empresa <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="Nome da sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Email <b class="text-danger">*</b></label>
-<input type="email" class="form-control" id="inputEmail4" placeholder="Email de sua empresa">
-</div>
-<div class="form-group">
-<label for="inputEmail4">Telefone com DDD <b class="text-danger">*</b></label>
-<input type="nome" class="form-control" id="inputEmail4" placeholder="11988887777">
-</div>
-<div class="form-row">
-<div class="form-group col-lg-8">
-<label for="exampleFormControlSelect1">Lacre</label>
-<select class="form-control" id="exampleFormControlSelect1">
-<option selected>Lacre Escada 23cm (Nylon)</option>
-</select>
-</div>
-<div class="form-group col-lg-4">
-<label for="exampleFormControlSelect1">Quantidade</label>
-<input type="number" class="form-control" id="inputEmail4" value="2000">
-</div>
-</div>
 
-<button type="submit" class="btn btn-primary">Enviar</button>
-</form>
-</div>
+        <form action="sendmail.php" method="post">
+        <div class="form-group">
+        <label>Empresa <b class="text-danger">*</b></label>
+        <input type="text" name="empresa" class="form-control" placeholder="Nome da sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Email <b class="text-danger">*</b></label>
+        <input type="email" name="email" class="form-control" placeholder="Email de sua empresa" required>
+        </div>
+        <div class="form-group">
+        <label>Telefone com DDD <b class="text-danger">*</b></label>
+        <input type="text" name="fone" class="form-control" placeholder="11988887777" required>
+        </div>
+        <div class="form-row">
+        <div class="form-group col-lg-8">
+        <label>Lacre</label>
+        <select class="form-control" name="lacre">
+        <option selected>Lacre Escada 23cm (Nylon)</option>
+        </select>
+        </div>
+        <div class="form-group col-lg-4">
+        <label>Quantidade</label>
+        <input type="number" name="quantidade" class="form-control" value="2000">
+        </div>
+        </div>
+
+        <button type="submit" name="submit" class="btn btn-secondary btn-sm rounded">Enviar</button>
+        <br><br>
+        </form>
+        </div><!--col-->
 
 <div class="col-lg-6">
 <h5>Especifica&ccedil;&otilde;es T&eacute;cnicas</h5>
 <hr>
 <ul>
-<li><strong>Material:</strong> Nylon</li>
+<li><span itemprop="description">Lacre de Seguran&ccedil;a</span></li>
+<li><strong>Material:</strong><span itemprop="material"> Nylon</span></li>
 <li><strong>Comprimento:</strong> 23cm</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Livre:</strong> 10,8 kgf</li>
 <li><strong>Resist&ecirc;ncia &agrave; Tra&ccedil;&atilde;o Travada:</strong> 20,0 kgf</li>
@@ -1025,14 +1049,14 @@
 <h5>Cores Dispon&iacute;veis</h5>
 <hr>
 <ul class="colors">
-<li data-toggle="tooltip" data-placement="top" title="Azul"></li>
-<li data-toggle="tooltip" data-placement="top" title="Vermelho"></li>
-<li data-toggle="tooltip" data-placement="top" title="Amarelo"></li>
-<li data-toggle="tooltip" data-placement="top" title="Laranja"></li>
-<li data-toggle="tooltip" data-placement="top" title="Verde"></li>
-<li data-toggle="tooltip" data-placement="top" title="Rosa"></li>
-<li data-toggle="tooltip" data-placement="top" title="Purpura"></li>
-<li data-toggle="tooltip" data-placement="top" title="Preto"></li>
+<li><span>Azul</span></li>
+<li><span>Vermelho</span></li>
+<li><span>Amarelo</span></li>
+<li><span>Laranja</span></li>
+<li><span>Verde</span></li>
+<li><span>Rosa</span></li>
+<li><span>Purpura</span></li>
+<li><span>Preto</span></li>
 </ul>
 
 <span><small>* Outras cores sob consulta</small></span>
@@ -1044,7 +1068,6 @@
 </div><!-- modal content -->
 </div><!-- modal dialog -->
 </div><!-- modal  -->
-
 
 </body>
 </html>
