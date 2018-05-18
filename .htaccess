@@ -1,11 +1,9 @@
-
-# htaccess
 # Author Leandro Zambelli
-# -----------------------------------------------------------------
+# 
 
 
 # REMOVES ENTITY TAGS OR ETAG
-# -----------------------------------------------------------------
+# 
 
 <IfModule mod_header.c>
   Header unset ETag
@@ -15,7 +13,7 @@ FileETag None
 
 
 # REMOVES WWW
-# -----------------------------------------------------------------
+# 
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
@@ -25,7 +23,7 @@ FileETag None
 
 
 # EXPIRES HEADER 
-# -----------------------------------------------------------------
+# 
 
 <IfModule mod_expires.c>
 
@@ -79,7 +77,7 @@ FileETag None
 
 
 # EXPIRE HEADERS WITH MOD_HEADERS
-# -----------------------------------------------------------------
+# 
 
 <IfModule mod_headers.c>
 

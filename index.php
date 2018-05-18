@@ -46,7 +46,7 @@
 <nav class="navbar sticky-top navbar-expand-md navbar-dark bg-black padding-nav">
 <div class="container">
 
-  <a class="navbar-brand" href="#"><img src="img/logo-white.png" width="205" alt="Logo"></a>
+  <a class="navbar-brand" href="#"><img src="img/logo-white.svg" width="205" alt="Logo"></a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -296,7 +296,7 @@
     <div class="row align-items-center">
 
     <div class="col-md-12 text-center">
-        <img src="img/logo-white.png" width="190" alt="">
+        <img src="img/logo-white.svg" width="190" alt="">
         <br><br>
         <p class="text-light">Lacres Erovitor 2018 - Todos os Direitos Reservados <br>
         Desenvolvido por <a href="mailto:leandro.zambelli@yahoo">leandro.zambelli@yahoo.com</a></p>

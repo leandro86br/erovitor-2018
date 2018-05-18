@@ -112,7 +112,7 @@ button { cursor: pointer }
 .relative { position: relative } /* usado para deixar as divs relativas */
 
 /* svg usados para decoracao das bordas das secoes contato e footer */
-.svg-top { top: -2px; left: 0; width: 100%; fill: #111; z-index: 2 }
+.svg-top { top: -2px; left: 0; width: 100%; fill: #111; z-index: 2;}
 .svg-bottom { bottom: -7px; left: 0; width: 100%; fill: #111; z-index: 2}
 
 /* informacoes de cores para os lacres */
