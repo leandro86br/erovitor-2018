@@ -84,14 +84,19 @@ button { cursor: pointer }
 
 /* uma porrada de background */
 .bg-white { background: #fff }
-.bg-black { background: #111 }
+.bg-black { background: #000 }
 .bg-mask { background: url(../img/bg/mask.png) }
+
+    @media (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 2dppx) { 
+        .bg-mask { background: url(../img/bg/mask-2x.png) }
+    }
+
 .bg-wood { background: #111 url(../img/bg/wood.jpg) no-repeat; background-size: cover; }
 .bg-banner { background: url(../img/bg/banner.png) no-repeat right; background-size: cover; }
 .bg-overlay { background: rgba(0,0,0,0.5) }
 
 /* usado em baixo de alguns titulos */
-.line { height: 1px; width:70px; margin:10px auto 66px auto; background:#ccc }
+.line { height: 3px; width:70px; margin:10px auto 66px auto; background:#333 }
 
 .padding-nav { padding-top: 29px; padding-bottom: 29px } /* usado para aumentar a nav, ou diminuir em scroll */
 .padding-header { padding-top: 150px; padding-bottom: 150px } /* usado para dar espaco ao conteudo do banner */
@@ -112,8 +117,8 @@ button { cursor: pointer }
 .relative { position: relative } /* usado para deixar as divs relativas */
 
 /* svg usados para decoracao das bordas das secoes contato e footer */
-.svg-top { top: -2px; left: 0; width: 100%; fill: #111; z-index: 2;}
-.svg-bottom { bottom: -7px; left: 0; width: 100%; fill: #111; z-index: 2}
+.svg-top { top: -2px; left: 0; width: 100%; fill: #000; z-index: 2;}
+.svg-bottom { bottom: -7px; left: 0; width: 100%; fill: #000; z-index: 2}
 
 /* informacoes de cores para os lacres */
 .colors{list-style-type: none; padding-left: 0}

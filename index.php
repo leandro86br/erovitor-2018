@@ -6,6 +6,13 @@
 <meta name="description" content="A Lacres Erovitor atua no segmento de lacres de seguran&ccedil;a, produtos personalizados com grava&ccedil;&atilde;o em hot-stamping ou &uacute;nica em alto-relevo">
 <meta name="keywords" content="lacres, lacres seguran&ccedil;a, lacres de seguranca, lacres polipropileno, lacres nylon, lacre escada, lacre corte facil, lacre espinha">
 
+<meta property="og:url" content="http://lacreserovitor.com.br">
+<meta property="og:site_name" content="Lacres Erovitor">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:title" content="Lacres de Segurança, Lacres para Malote e Lacres Plásticos">
+<meta property="og:description" content="Encontre o melhor em lacres plasticos, lacres de segurança e lacres para malote">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -98,7 +105,7 @@
       </div><!-- ROW -->
 
       <div class="row">
-        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
+        <div class="col-md-6 col-lg-4 a" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#lacreEscada16">
             <div class="card relative">
               <i class="material-icons more icon-lg">zoom_in</i>
@@ -110,7 +117,7 @@
           </a>
         </div><!-- col -->
 
-        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
+        <div class="col-md-6 col-lg-4 b" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#lacreEscada23">
             <div class="card relative">
               <i class="material-icons more icon-lg">zoom_in</i>
@@ -122,7 +129,7 @@
           </a>
         </div><!-- col -->
 
-        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
+        <div class="col-md-6 col-lg-4 c" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#lacreCorteFacil16">
             <div class="card relative">
               <i class="material-icons more icon-lg">zoom_in</i>
@@ -134,7 +141,7 @@
           </a>
         </div><!-- col -->
 
-        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
+        <div class="col-md-6 col-lg-4 d" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#lacreCorteFacil23">
             <div class="card relative">
               <i class="material-icons more icon-lg">zoom_in</i>
@@ -146,7 +153,7 @@
           </a>
         </div><!-- col -->
 
-        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
+        <div class="col-md-6 col-lg-4 e" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#lacreEspinha16">
             <div class="card relative">
               <i class="material-icons more icon-lg">zoom_in</i>
@@ -158,7 +165,7 @@
           </a>
         </div><!-- col -->
 
-        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
+        <div class="col-md-6 col-lg-4 f" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#lacreEspinha23">
             <div class="card relative">
               <i class="material-icons more icon-lg">zoom_in</i>
@@ -181,7 +188,7 @@
       </div><!-- ROW -->
 
       <div class="row justify-content-center">
-        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
+        <div class="col-md-6 col-lg-4 a" itemscope itemtype="http://schema.org/Product">
           <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#nylon16">
             <div class="card relative">
               <i class="material-icons more icon-lg">zoom_in</i>
@@ -193,7 +200,7 @@
           </a>
         </div><!-- col -->
 
-        <div class="col-md-6 col-lg-4" itemscope itemtype="http://schema.org/Product">
+        <div class="col-md-6 col-lg-4 b" itemscope itemtype="http://schema.org/Product">
             <a href="#" class="text-center card-hover" data-toggle="modal" data-target="#nylon23">
               <div class="card relative">
               <i class="material-icons more icon-lg">zoom_in</i>
@@ -215,7 +222,7 @@
 
 <section id="section-quem-somos" class="bg-black">
 
-<svg viewBox="0 0 1280 140" preserveAspectRatio="none" class="svg-top bg-mask" role="presentation" aria-hidden="true">
+<svg viewBox="0 0 1280 140" preserveAspectRatio="none" class="relative svg-top bg-mask" role="presentation" aria-hidden="true">
     <polygon points="1280,140 0,140 0,70 623.715,70 656.285,0 1280,0"></polygon>
 </svg>
 
@@ -261,7 +268,7 @@
                     <p class="text-light">
                     Rua Antonio Gomes, 437 <br>
                     Santa Clara - S&atilde;o Paulo - SP <br>
-                    CEP 03274-010 <br>
+                    CEP 03274-010 <br> <br>
                     <a class="link-light" href="https://goo.gl/maps/3dBiVjyxcU32" target="_blank"> <i class="material-icons">directions</i> <br> como chegar</a>
                     </p>
                     <h3 class="text-light"><i class="material-icons">phone</i> <br> Fones</h3>
@@ -299,7 +306,7 @@
         <img src="img/logo-white.svg" width="190" alt="">
         <br><br>
         <p class="text-light">Lacres Erovitor 2018 - Todos os Direitos Reservados <br>
-        Desenvolvido por <a href="mailto:leandro.zambelli@yahoo">leandro.zambelli@yahoo.com</a></p>
+        &lt; &gt;  <a href="mailto:leandro.zambelli@yahoo.com" target="_blank">Leandro.Zambelli@yahoo.com</a> &lt; / &gt;
     </div><!-- COL -->
     
     </div><!-- ROW -->
@@ -314,6 +321,22 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" defer></script>
 
 <script src="js/functions.js" defer></script>
+<script src="js/scrollreveal.min.js" async></script>
+
+<script>
+window.sr = ScrollReveal();
+
+sr.reveal('.a', {  origin: 'bottom', duration:1000, delay: 50, });
+sr.reveal('.b', {  origin: 'bottom', duration:1000, delay: 100, });
+sr.reveal('.c', {  origin: 'bottom', duration:1000, delay: 150, });
+sr.reveal('.d', {  origin: 'bottom', duration:1000, delay: 200, });
+sr.reveal('.e', {  origin: 'bottom', duration:1000, delay: 250, });
+sr.reveal('.f', {  origin: 'bottom', duration:1000, delay: 300, });
+sr.reveal('.card-contact', { distance: '200px', origin: 'right', duration:1000, delay: 50, });
+
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyArnM9ay1RZRoNhQsy_mtQQJgzZ9T1eByg&callback=initMap" async defer></script>
 
 <script>
 function initMap() {
@@ -517,9 +540,6 @@ function initMap() {
 
 }
 </script>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyArnM9ay1RZRoNhQsy_mtQQJgzZ9T1eByg&callback=initMap" async defer></script>
-
 
 
 <!-- ==LACRE ESCADA 16
